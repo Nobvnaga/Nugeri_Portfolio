@@ -1,5 +1,5 @@
 # Nugeri_Portfolio
-Data Science Portfolio
+Data Portfolio
 
 # [Loan Status](https://github.com/nugerid/CreditRPrj) 
 * Found out Loan Status Count
